@@ -1,7 +1,7 @@
 const aoi = require('aoi.js')
 
 const bot = new aoi.Bot({
-    token: 'ODYzNjQzMzg3MDY3MjM2MzUy.YOp4lQ.1OdKdIDHoHKayN9U7-rKhnTGkiA',
+    token: 'no',
     prefix: 'a$'
 })
 
